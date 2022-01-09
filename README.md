@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi 👋 I'm Nirasha Sewwandi
 
-<!--
-**NirashaSewwandi/NirashaSewwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='left' src="https://upliftcorrect.com/wp-content/uploads/2021/08/55537-girl-on-computer-with-idea.gif" width="230">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🎓 I’m currently studying Computer Engineering at University of Peradeniya.
+ 
+ 👨‍💻 I’m interested in programming.
+ 
+ 🛠 Currently Learning
+ 
+     💻 C | Java | Python | MySQL
+
+     🌐 HTML | CSS | JavaScript 
+ 
+
+
+
+
+
+
+
